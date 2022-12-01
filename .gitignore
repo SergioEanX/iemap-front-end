@@ -1,0 +1,10 @@
+node_modules
+*.log*
+.yarn
+.nuxt
+.nitro
+.cache
+.output
+.env
+.lh
+# dist
